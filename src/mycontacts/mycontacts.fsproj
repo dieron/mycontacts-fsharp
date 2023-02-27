@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <AssemblyName>dieroncom.App</AssemblyName>
+    <AssemblyName>mycontacts.App</AssemblyName>
     <EnableDefaultContentItems>false</EnableDefaultContentItems>
     <UserSecretsId>0300d611-2921-4226-803c-f56bbf15f42c</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>

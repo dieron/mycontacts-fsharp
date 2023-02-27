@@ -2,11 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/dieroncom
+/.vs/
 /.vscode
 /src/mycontacts/bin/Debug
 /src/mycontacts/obj
 *.user
 /src/mycontacts/Properties/PublishProfiles
-/.vs/mycontacts/FileContentIndex
-/.vs/mycontacts/config
