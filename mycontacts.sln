@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B8CB57F5-C87C-48A1-A3DC-BF5BBA95EB25}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "dieroncom", "src\dieroncom\dieroncom.fsproj", "{C56E75B2-5671-46E1-8594-6529135E7082}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "mycontacts", "src\mycontacts\mycontacts.fsproj", "{C56E75B2-5671-46E1-8594-6529135E7082}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_root", "_root", "{625E3CAC-600B-450D-BF54-E3059450591A}"
 ProjectSection(SolutionItems) = preProject

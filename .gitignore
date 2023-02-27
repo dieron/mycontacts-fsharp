@@ -1,2 +1,12 @@
-src/dieroncom/bin/
-src/dieroncom/obj/
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/dieroncom
+/.vscode
+/src/mycontacts/bin/Debug
+/src/mycontacts/obj
+*.user
+/src/mycontacts/Properties/PublishProfiles
+/.vs/mycontacts/FileContentIndex
+/.vs/mycontacts/config
